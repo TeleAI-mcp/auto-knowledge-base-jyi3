@@ -1,2 +1,3 @@
-# auto-knowledge-base-jyi3
-Automated issue comment bot repository
+# Auto Knowledge Base Jyi3
+
+Automated issue comment bot repository.
